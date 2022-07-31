@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16s_Pro/8.1.5.4/cn/20220512192427/d481cb0d/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://xiaomirom.com/download/redmi-k30-5g-k30i-5g-picasso-stable-V13.0.1.0.SGICMXM/#china-recovery
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
